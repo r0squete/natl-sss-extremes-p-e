@@ -32,3 +32,5 @@ Please cite the repository and the related article (when available).
 
 ## License
 MIT (see LICENSE).
+
+https://doi.org/10.5281/zenodo.17550918
